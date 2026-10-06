@@ -1,0 +1,8 @@
+{
+  "name": "Alexa+ LifeOS - Agentic MCP Server & Assistant",
+  "description": "Self-hosted Model Context Protocol (MCP 2025-11-25 Streamable HTTP) server and simulated Alexa+ agentic assistant with voice controls, tool orchestration, and safety confirmation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
