@@ -45,6 +45,8 @@ Traditional voice skills rely on rigid intent matching and fragile webhook casca
 
 ---
 
+Live Url - https://alexa-lifeos-agentic-mcp-server-assistant.ai.studio/
+
 ## ⚡ Key Features
 
 - **Self-Hosted MCP Endpoint (`/mcp`)**: Fully compliant JSON-RPC 2.0 endpoint handling `initialize`, `tools/call`, `resources/read`, and `prompts/get`.
